@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>液位检测系统</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #0073e6;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>液位检测系统</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>关于液位检测系统</h2>
+            <p>液位检测系统是一种用于监测和控制液体水平的装置。它们广泛应用于工业、农业、水处理等领域。液位检测系统可以通过各种传感器来检测液体的高度，并将这些信息传送到控制系统以进行相应的操作。</p>
+        </section>
+        <section>
+            <h2>系统功能</h2>
+            <ul>
+                <li>实时监测液位</li>
+                <li>液位超限报警</li>
+                <li>自动控制补液或排液</li>
+                <li>数据记录和分析</li>
+            </ul>
+        </section>
+        <section>
+            <h2>应用领域</h2>
+            <p>液位检测系统可以应用于以下领域：</p>
+            <ul>
+                <li>水处理厂</li>
+                <li>化工厂</li>
+                <li>农业灌溉</li>
+                <li>食品饮料生产</li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        &copy; 2024 液位检测系统
+    </footer>
+</body>
+</html>
